@@ -10,7 +10,7 @@ permalink:        /blog/:year/:month/:day/:title
 title:            'Yashprit'
 tagline:          'Polyglot programmer'
 description:      'Yashprit blog'
-url:              'http://localhost:4000'
+url:              'http://yashprit.com'
 baseurl:          ''
 
 # Navigation
@@ -34,7 +34,7 @@ author:         'Yashprit Singh'
 linkedin:       'http://in.linkedin.com/in/yashprit'
 twitter:        'https://twitter.com/yashprit'
 github:       'https://github.com/yashprit'
-gplus:          'https://plus.google.com/100425464897246255887/'
+gplus:          'https://plus.google.com/+YashpritSinghji'
 stackoverflow: 'http://stackoverflow.com/users/420238/yashprit?tab=profile'
 
 # Google Analytics

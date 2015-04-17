@@ -7,7 +7,7 @@
 */
 /*! normalize.css v3.0.0 | MIT License | git.io/normalize */
 html {
-  font-family: sans-serif;
+  font-family: museo-slab, Georgia, "Times New Roman", Times, serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -355,7 +355,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "Open Sans", Calibri, Candara, Arial, sans-serif;
+  font-family: 'Droid Sans', sans-serif;
   font-weight: 300;
   line-height: 1.1;
   color: inherit;
