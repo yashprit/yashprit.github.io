@@ -1,0 +1,70 @@
+# Configurations
+markdown: kramdown
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
+highlighter: pygments
+
+# Permalinks
+permalink:        /blog/:year/:month/:day/:title
+
+# Setup
+title:            'Yashprit'
+tagline:          'Polyglot programmer'
+description:      'Yashprit blog'
+url:              'http://localhost:4000'
+baseurl:          ''
+
+# Navigation
+navigation:
+- text: About
+  url: /about/
+- text: Resume
+  url: /resume/
+- text: Blog
+  url: /blog/
+- text: Tags
+  url: /tags/
+- text: Archive
+  url : /archive/
+
+
+# Author Details
+author:         'Yashprit Singh'
+
+#Social Media links
+linkedin:       'http://in.linkedin.com/in/yashprit'
+twitter:        'https://twitter.com/yashprit'
+github:       'https://github.com/yashprit'
+gplus:          'https://plus.google.com/100425464897246255887/'
+stackoverflow: 'http://stackoverflow.com/users/420238/yashprit?tab=profile'
+
+# Google Analytics
+gahandler: 'UA-61984575-1'
+
+#if footer-links-visible is 'true' the svg-icons will be shown top on the copy right.
+#else the svg icons will not exist
+footersvg: 'true'
+
+footer-links:
+  dribbble:
+  email: None
+  facebook:
+  flickr:
+  github:
+  instagram:
+  linkedin:
+  pinterest:
+  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  google: None
+  twitter: None
+  stackoverflow: users/420238/yashprit?tab=profile
+
+# Disqus
+disqushandler: 'testingblogo'
+
+# Blog Configurations
+paginate: 10 # Posts per page on the blog index
+paginate_path: '/blog/page:num'
+destination: ./_site
+
+# Custom vars
+version:          0.8
