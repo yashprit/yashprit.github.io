@@ -10,7 +10,7 @@ permalink:        /blog/:year/:month/:day/:title
 title:            'Yashprit'
 tagline:          'Polyglot programmer'
 description:      'Yashprit blog'
-url:              'http://localhost:4000'
+url:              'yashprit.com'
 baseurl:          ''
 
 # Navigation
