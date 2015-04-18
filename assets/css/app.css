@@ -27,6 +27,15 @@
     margin: 0 auto;
 }
 
+.profile-img{
+  width: 150px;
+  height: 150px;
+  border-radius: 130px;
+  display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
 @media (min-width: 768px) {
   .sidebar {
     position: fixed;
@@ -59,6 +68,7 @@
 
 .tile > .title {
   margin-top: 0px;
+  font-family: 'Monoton', cursive;
 }
 
 .purple, .blue, .red, .orange, .green {
@@ -260,3 +270,27 @@ a.orange-link:focus {
 }
 
 .icon-back{background-position:-966px -40px ; width: 48px ; height: 48px;display:inline-block;text-decoration:none}
+
+.profile p{
+  font-family: 'Radley', serif;
+  font-size: 17px;
+}
+
+/* Media queries for profile height (narmal size) */
+
+@media only screen and (min-width : 320px) and (max-width : 768px) {
+  .profile{
+    height: 260px;
+    margin-top:20px;
+  }
+}
+
+@media only screen and (min-width : 768px) and (max-width : 1224px) {
+  .profile{
+    height: 200px;
+  }
+}
+
+@media only screen and (max-width : 320px) {
+
+}
