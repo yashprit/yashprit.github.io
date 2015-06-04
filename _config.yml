@@ -46,7 +46,7 @@ footersvg: 'true'
 
 footer-links:
   dribbble:
-  email: None
+  email: yashprits@gmail.com
   facebook:
   flickr:
   github:
@@ -55,7 +55,7 @@ footer-links:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   google: None
-  twitter: None
+  twitter: https://twitter.com/yashprit
   stackoverflow: users/420238/yashprit?tab=profile
 
 # Disqus
