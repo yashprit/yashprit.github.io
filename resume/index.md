@@ -1,16 +1,18 @@
 ---
 layout: page
 title: Resume
-description: Resume of Abdel Raoof
+description: Resume of Yashprit Singh
 theme: red
 ---
-Six years of experience in software development on Microsoft and Java technologies. Experienced in design and development of enterprise web applications, content management systems and enterprise application integration.
+I code to create wonderful software, by wonderful I mean, developing software in closed feedback loop, this enhance quality and provide high amount of customer satisfaction. Software development should be adaptive rather than predictive and should be people-oriented rather than process-oriented.
 
-**Experience in Web Technology:**
-Building and Supporting web applications using Microsoft Technologies (ASP.Net & ASP.Net MVC). Developing UI using Ext JS and jQuery.
+I have worked on every area of software development business i.e pre-sales, requirement gathering, business analysis, service delivery, quality assurance, DevOps, and Coding, but Coding remained as my Unique selling proposition.
 
-**Experience in Enterprise Content Management:**
-Implemented custom applications for content and knowledge management. Have also worked with leading industry ECM applications like SharePoint 2013, MOSS 2007, SharePoint 2010 and Documentum.
+I started as my career as freelancer using HTML/CSS, PHP, CakePHP as tool. I got first fulltime job as a Java developer, developed web based application using Spring/Hibernate but my passion leads me to learn JavaScript, with knowledge of JavaScript I tend to understand NodeJS and being part of NodeJS based project.
+
+I love Polyglot of programming language and I've been part of such projects.
+
+Besides coding, I also love to speak about technologies especially JavaScript on various Meetups. Like any other Unix fan, I love Open source software, my GitHub Repository contains few.
 
 <!-- Skills -->
 <section class="row">
@@ -22,18 +24,18 @@ Implemented custom applications for content and knowledge management. Have also 
 			<div class="col-md-6">
 				<ul class="list-group">
 					<li class="list-group-item active"><h4><strong>Programming</strong></h4></li>
-					<li class="list-group-item">C#</li>
-					<li class="list-group-item">ASP.Net / ASP.Net MVC</li>
-					<li class="list-group-item">Javascript</li>
+					<li class="list-group-item">JavaScript</li>
+					<li class="list-group-item">Java</li>
 					<li class="list-group-item">HTML & CSS</li>
 				</ul>
 			</div>
 			<div class="col-md-6">
 				<ul class="list-group">
-					<li class="list-group-item active"><h4><strong>Specialties</strong></h4></li>
-					<li class="list-group-item">.Net Web Technologies</li>
-					<li class="list-group-item">SharePoint 2013</li>
-					<li class="list-group-item">Sencha Ext Js</li>
+					<li class="list-group-item active"><h4><strong>Framework</strong></h4></li>
+					<li class="list-group-item">Backbone</li>
+					<li class="list-group-item">Angular</li>
+          <li class="list-group-item">React</li>
+					<li class="list-group-item">Spring</li>
 				</ul>
 			</div>
 		</div>
@@ -48,12 +50,8 @@ Implemented custom applications for content and knowledge management. Have also 
 	<div class="col-md-9">
 		<ul>
 			<li>
-				<h4>Master of Computer Applications (MCA)</h4>
-				<p>2004-2007 - Vellore Institute of Technology</p>
-			</li>
-			<li>
-				<h4>Bachelor of Sscience - Computer Science</h4>
-				<p>2001-2004 - University of Calicut</p>
+				<h4>Bachelor of Computer Engineering (B.E.)</h4>
+				<p>2005-2009 - Army Institute of Technology, Pune University</p>
 			</li>
 		</ul>
 	</div>
@@ -67,24 +65,24 @@ Implemented custom applications for content and knowledge management. Have also 
 	<div class="col-md-9">
 		<ul>
 			<li>
-				<h4>C4 Advanced Solutions</h4>
+				<h4>Option3 Consulting Pvt. Ltd.</h4>
 				<h5>Present</h5>
-				<p>Working as Application Developer</p>
+				<p>Working as Consultant</p>
 			</li>
 			<li>
-				<h4>Abdul Samad Al Qurashi</h4>
-				<h5>March 2010 - January 2013</h5>
-				<p>Worked as Web Developer</p>
+				<h4>Webonise</h4>
+				<h5>July 2013 - April 2015</h5>
+				<p>Worked as Associate Vice President</p>
 			</li>
 			<li>
-				<h4>Samsung SDS</h4>
-				<h5>May 2009 - March 2010</h5>
-				<p>Worked as Web Developer with MIS team</p>
+				<h4>i-ValueBridge</h4>
+				<h5>September 2010 - July 2013</h5>
+				<p>Project Manager</p>
 			</li>
 			<li>
-				<h4>Honeywell Technology Solutions</h4>
-				<h5>December 2006 - December 2008</h5>
-				<p>Worked as Project Trainee & later Software Engineer</p>
+				<h4>Constellation Software and Consulting Pvt Ltd</h4>
+				<h5>August 2009 - September 2010</h5>
+				<p>Worked as Web Engineer</p>
 			</li>
 		</ul>
 	</div>
