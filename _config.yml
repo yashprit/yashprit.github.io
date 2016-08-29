@@ -1,70 +1,51 @@
-# Configurations
+# Site settings
+name: John Smith
+description: "Nifty little description"
+url: ""
+
+
+# Delete the lines you don't need
+# about 5 elements are recomended
+github_username:  dashingcode
+codepen_username: your_codepen_username_goes_here
+facebook_username: your_facebook_username_goes_here
+vk_username: your_vk_username_goes_here
+twitter_username: your_twitter_username_goes_here
+google_plus_username: your_google_plus_username_goes_here
+linkedin_username: your_linked_in_username_goes_here
+vine_username:  your_vine_username_goes_here
+instagram_username:  your_instagram_username_goes_here
+flickr_username: your_flickr_username_goes_here
+steam_username: your_steam_username_goes_here
+soundcloud_username:  your_soundcloud_username_goes_here
+stack_of_username: your_stack_overflow_account_id_number_goes_here
+reddit_username: your_reddit_username_goes_here
+medium_username:  your_medium_username_goes_here
+tumblr_username: your_tumblr_username_goes_here
+weibo_username: your_weibo_username_goes_here
+lastfm_username: your_lastfm_username_goes_here
+blog_url: "/blog"
+email: your-email@example.domain
+public_key_url: "https://raw.pastebin.com/LINK-TO-PUBLIC-KEY"
+
+
+avatar: yes
+#avatar_img_path: "imgs/avatar.jpg""
+# You can link to your GitHub image. That way it will get updated
+# automatically whenever you change your GitHub profile picture
+avatar_img_path: "https://avatars2.githubusercontent.com/u/17301305"
+
+
+front_img: yes
+front_img_path: "imgs/background.jpg"
+#front_img_path: "https://external.url/image.jpg"
+
+
+favicon_img: yes
+favicon_img_path: "imgs/favicon.ico"
+#favicon_img_path: "https://external.url/favicon.ico"
+
+
+# Build settings
 markdown: kramdown
-markdown_ext:  markdown,mkdown,mkdn,mkd,md
-highlighter: pygments
-
-# Permalinks
-permalink:        /blog/:year/:month/:day/:title
-
-# Setup
-title:            'Yashprit'
-tagline:          'Polyglot programmer'
-description:      'Yashprit blog'
-url:              'http://yashprit.com'
-baseurl:          ''
-
-# Navigation
-navigation:
-- text: About
-  url: #/about/
-- text: Resume
-  url: #/resume/
-- text: Blog
-  url: #/blog/
-- text: Tags
-  url: #/tags/
-- text: Archive
-  url : #/archive/
-
-
-# Author Details
-author:         'Yashprit Singh'
-
-#Social Media links
-linkedin:       'http://in.linkedin.com/in/yashprit'
-twitter:        'https://twitter.com/yashprit'
-github:       'https://github.com/yashprit'
-gplus:          'https://plus.google.com/+YashpritSinghji'
-stackoverflow: 'http://stackoverflow.com/users/420238/yashprit?tab=profile'
-
-# Google Analytics
-gahandler: 'UA-61984575-1'
-
-#if footer-links-visible is 'true' the svg-icons will be shown top on the copy right.
-#else the svg icons will not exist
-footersvg: 'true'
-
-footer-links:
-  dribbble:
-  email: yashprits@gmail.com
-  facebook:
-  flickr:
-  github:
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  google: None
-  twitter: https://twitter.com/yashprit
-  stackoverflow: users/420238/yashprit?tab=profile
-
-# Disqus
-disqushandler: 'testingblogo'
-
-# Blog Configurations
-paginate: 10 # Posts per page on the blog index
-paginate_path: '/blog/page:num'
-destination: ./_site
-
-# Custom vars
-version:          0.8
+permalink: pretty
