@@ -1,18 +1,16 @@
-# front cover jekyll theme
+# Personal Website Cover Page
 
-## Why choose this jekyll theme for your front page?
-* You don't have to modify any HTML, everything can be modified in config.yml.
-* Very lightweight. No Javascript, No Bootstrap etc..
-* MIT licensed.
+This is built using Jekyll and wonderful gems like bundler, Guard, Jekyll Live Reload
 
+Many Thanks to wonderful <a href="https://github.com/dashingcode/front-cover">front-cover jekyll theme</a>
 
-## See it in action
-<a href="https://dashingcode.github.io/front-cover/">Live demo page</a>
+## Original Credits from front-cover jekyll theme
 
-## Credits
 The background image that was used as an example comes from Tom Hall.
 You can find it on <a href="https://flic.kr/p/pqEPBb">Flickr</a>.
 It's licensed under Creative-Commons.
 
 This theme makes use of the amazing <a href="http://fontawesome.io/">Font Awesome</a> icons.
+
+Made with ♥ using Jekyll
 
