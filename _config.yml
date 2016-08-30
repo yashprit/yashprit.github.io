@@ -1,3 +1,12 @@
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+favicon_img: yes
+favicon_img_path: "imgs/favicon.ico"
+#favicon_img_path: "https://external.url/favicon.ico"
+analytics: "UA-61984575-1"
+
 # Site settings
 name: Yashprit Singh
 description: "Programmer"
@@ -40,13 +49,3 @@ avatar_img_path: "https://avatars2.githubusercontent.com/u/448511"
 front_img: yes
 #front_img_path: "imgs/background1.jpg"
 front_img_path: "https://c4.staticflickr.com/3/2920/14133825131_00e39d13b4_k.jpg"
-
-
-favicon_img: yes
-favicon_img_path: "imgs/favicon.ico"
-#favicon_img_path: "https://external.url/favicon.ico"
-
-
-# Build settings
-markdown: kramdown
-permalink: pretty
