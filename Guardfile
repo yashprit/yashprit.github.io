@@ -1,5 +1,5 @@
 guard 'jekyll-plus', :serve => true do
-  watch /css|imgs|index.html|_config.yml|_layouts/
+  watch /.*/
   ignore /^_site/
 end
 

@@ -104,7 +104,7 @@ permalink: /
                     {% endif %}
 
                     {% if site.blog_url %}
-                    <li><a class="fa fa-2x fa-tags" target="_blank" href="{{ site.blog_url }}"><span class="description">Blog</span></a></li>
+                    <li><a class="fa fa-2x fa-tags" href="{{ site.blog_url }}"><span class="description">Blog</span></a></li>
                     {% endif %}
 
                     {% if site.email %}
@@ -113,6 +113,10 @@ permalink: /
 
                     {% if site.public_key_url %}
                     <li><a class="fa fa-2x fa-key" href="{{ site.public_key_url }}"><span class="description">PGP Key</span></a></li>
+                    {% endif %}
+
+                    {% if site.resume %}
+                    <li><a class="fa fa-2x fa-file-text" href="{{ site.resume }}"><span class="description">Resume</span></a></li>
                     {% endif %}
                 </ul>
         </div>

@@ -15,7 +15,7 @@ twitter_username: yashprit
 linkedin_username: yashprit
 #vine_username:  your_vine_username_goes_here
 #instagram_username:  your_instagram_username_goes_here
-#flickr_username: your_flickr_username_goes_here
+flickr_username: yashprit
 #steam_username: your_steam_username_goes_here
 #soundcloud_username:  your_soundcloud_username_goes_here
 stack_of_username: 420238
@@ -27,6 +27,7 @@ stack_of_username: 420238
 blog_url: "http://blog.yashprit.com"
 email: yashprit@yashprit.com
 #public_key_url: "https://raw.pastebin.com/LINK-TO-PUBLIC-KEY"
+resume: "http://resume.yashprit.com"
 
 
 avatar: yes
@@ -37,8 +38,8 @@ avatar_img_path: "https://avatars2.githubusercontent.com/u/448511"
 
 
 front_img: yes
-front_img_path: "imgs/background.jpg"
-#front_img_path: "https://external.url/image.jpg"
+#front_img_path: "imgs/background1.jpg"
+front_img_path: "https://c4.staticflickr.com/3/2920/14133825131_00e39d13b4_k.jpg"
 
 
 favicon_img: yes
