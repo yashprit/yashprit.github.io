@@ -9,7 +9,8 @@ analytics: "UA-61984575-1"
 
 # Site settings
 name: Yashprit Singh
-description: "Programmer"
+title: "Programmer"
+description: "I do open-source making modules and apps. <br/>My favorite technologies right now are Node.js and Java."
 url: ""
 
 
@@ -24,7 +25,7 @@ twitter_username: yashprit
 linkedin_username: yashprit
 #vine_username:  your_vine_username_goes_here
 #instagram_username:  your_instagram_username_goes_here
-flickr_username: yashprit
+#flickr_username: yashprit
 #steam_username: your_steam_username_goes_here
 #soundcloud_username:  your_soundcloud_username_goes_here
 stack_of_username: 420238
@@ -34,7 +35,7 @@ stack_of_username: 420238
 #weibo_username: your_weibo_username_goes_here
 #lastfm_username: your_lastfm_username_goes_here
 blog_url: "http://blog.yashprit.com"
-email: yashprit@yashprit.com
+email: contact@yashprit.com
 #public_key_url: "https://raw.pastebin.com/LINK-TO-PUBLIC-KEY"
 resume: "http://resume.yashprit.com"
 
